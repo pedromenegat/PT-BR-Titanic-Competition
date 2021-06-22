@@ -2,7 +2,7 @@
 
 # Informações Gerais
 
-Este notebook foi minha submissão para a competição "Titanic: Machine Learning from Disaster" do Kaggle. A resolução deste problema foi minha primeira experiência prática com machine learning. 
+Este notebook foi minha submissão para a competição "Titanic: Machine Learning from Disaster" do Kaggle. A resolução deste problema foi minha primeira experiência prática com machine learning fora do ambiente acadêmico. 
 
 A competição consiste na criação de um modelo classificador que prevê se um passageiro que estava a bordo do Titanic sobreviverá ou não a tragédia. 
 
